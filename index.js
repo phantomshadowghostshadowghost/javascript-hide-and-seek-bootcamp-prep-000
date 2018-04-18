@@ -12,4 +12,6 @@ function increaseRankBy(n) {
     lmd[i].innerHTML = parseInt((i + n))
   }
 }
-deepestChild()
+function deepestChild(){
+  
+}
