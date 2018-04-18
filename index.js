@@ -10,6 +10,6 @@ function increaseRankBy(n) {
   const lmd = document.querySelectorAll('.ranked-list')
   for (let i = 0; i < lmd.length; i++){
     lmd[i].innerHTML = parseInt((i + n))
-
   }
 }
+deepestChild()
